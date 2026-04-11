@@ -23,11 +23,7 @@ I’m a developer focused on building high-performance, cross-platform mobile ex
 
 ---
 
-### 📊 Vital Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingCoste9&show_icons=true&theme=dracula&hide_border=true" alt="KingCoste9's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingCoste9&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
